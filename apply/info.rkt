@@ -1,4 +1,4 @@
 #lang info
 (define collection "apply")
-(define deps '("racket"))
+(define deps '("base" "compatibility-lib" "srfi-lib"))
 (define pkg-authors '(zaoqi))
